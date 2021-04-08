@@ -1,0 +1,12 @@
+{
+  "name": "playing-with-throng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YashKumarVerma/playing-with-throng",
+  "author": "Yash Kumar Verma <yk.verma2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "throng": "^5.0.0"
+  }
+}
